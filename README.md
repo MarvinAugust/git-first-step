@@ -1,2 +1,2 @@
 #Title
-Training for studies of DevWeb GOAL #2
+Training for studies of DevWeb GOAL#2
